@@ -42,7 +42,7 @@
 | 🎓 Degree | 🏫 Institution | 📅 Timeline |
 |----------|----------------|-------------|
 | **B.Tech in CSE** | ICFAI University Tripura | 2022 – 2026 |
-| **Higher Secondary** | Hindi H.S. School, Agartala | 2022 - 2022 |
+| **Higher Secondary** | Hindi H.S. School, Agartala | 2020 - 2022 |
 
 ---
 
